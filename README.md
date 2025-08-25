@@ -39,7 +39,9 @@ To find the most demanded skills for the top 3 most popular data roles. I filter
 
 ### Insights:
 
-As shown in the above bar chart, SQL is the top skill in the data analyst role, data engineer and it comes in the second most important skill for the data scientists with percentages of 51, 68, and 51, respectively. Python is the second most important skill to the data engineer, and the most important skill to data scientists. However, Python comes in the fourth place for data analysts. As an ambitious data analyst, Excel comes in second place for the most important skill for data analysts. 
+- As shown in the above bar chart, SQL is the top skill in the data analyst role, data engineer and it comes in the second most important skill for the data scientists with percentages of 51, 68, and 51, respectively.
+- Python is the second most important skill to the data engineer, and the most important skill to data scientists.
+- However, Python comes in the fourth place for data analysts. As an ambitious data analyst, Excel comes in second place for the most important skill for data analysts. 
 
 ## 2. How are in-demand skills trending for Data Analysts?
 
@@ -81,11 +83,11 @@ Next, I narrowed my analysis and focused only on data analyst roles. I looked at
 
 ### Insights:
 
-The top graph shows specialized technical skills like dplyr, Bitbucket, and Gitlab are associated with higher salaries, some reaching up to $200K, suggesting that advanced technical proficiency can increase earning potential.
+- The top graph shows specialized technical skills like dplyr, Bitbucket, and Gitlab are associated with higher salaries, some reaching up to $200K, suggesting that advanced technical proficiency can increase earning potential.
 
-The bottom graph highlights that foundational skills like Excel, PowerPoint, and SQL are the most in-demand, even though they may not offer the highest salaries. This demonstrates the importance of these core skills for employability in data analysis roles.
+- The bottom graph highlights that foundational skills like Excel, PowerPoint, and SQL are the most in-demand, even though they may not offer the highest salaries. This demonstrates the importance of these core skills for employability in data analysis roles.
 
-There's a clear distinction between the skills that are highest paid and those that are most in demand. Data analysts aiming to maximize their career potential should consider developing a diverse skill set that includes both high-paying specialized skills and widely demanded foundational skills.
+- There's a clear distinction between the skills that are highest paid and those that are most in demand. Data analysts aiming to maximize their career potential should consider developing a diverse skill set that includes both high-paying specialized skills and widely demanded foundational skills.
 
 - # Conclusion
 
